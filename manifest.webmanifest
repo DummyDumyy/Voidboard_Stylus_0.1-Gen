@@ -1,0 +1,14 @@
+{
+  "name": "Blackboard",
+  "short_name": "Blackboard",
+  "description": "A responsive mathematical drawing blackboard.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#121820",
+  "theme_color": "#121820",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
